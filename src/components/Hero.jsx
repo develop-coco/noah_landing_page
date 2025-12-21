@@ -15,9 +15,11 @@ function Hero() {
     <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-200 via-indigo-100 via-purple-100 via-white to-emerald-100 px-4 py-20 relative overflow-hidden">
       {/* Subtle pattern overlay for depth */}
       <div className="absolute inset-0 opacity-5">
-        <div className="absolute inset-0" style={{
+        <div className="absolute right-0 bottom-0" style={{
           backgroundImage: 'radial-gradient(circle at 2px 2px, rgb(59, 130, 246) 1px, transparent 0)',
-          backgroundSize: '40px 40px'
+          backgroundSize: '40px 40px',
+          backgroundColor: 'rgba(0, 0, 0, 0.5)',
+          left: '-1px'
         }}></div>
       </div>
       <div className="relative z-10 w-full max-w-4xl mx-auto text-center">
