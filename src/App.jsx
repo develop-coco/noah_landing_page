@@ -2,6 +2,7 @@ import Hero from './components/Hero'
 import ProblemSection from './components/ProblemSection'
 import SolutionSection from './components/SolutionSection'
 import HowItWorks from './components/HowItWorks'
+import TargetAudience from './components/TargetAudience'
 import PricingSection from './components/PricingSection'
 import FAQ from './components/FAQ'
 
@@ -13,6 +14,7 @@ function App() {
         <ProblemSection />
         <SolutionSection />
         <HowItWorks />
+        <TargetAudience />
         <PricingSection />
         <FAQ />
       </div>

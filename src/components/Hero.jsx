@@ -6,7 +6,7 @@ function Hero() {
 
   const handleSurvey = () => {
     window.open(
-      'https://docs.google.com/forms/d/e/1FAIpQLSeSoDcOwE9v6tmaKwMEB-wV5ivpyccDGS1-S1nXxjqMksQWbA/viewform',
+      'https://docs.google.com/forms/d/e/1FAIpQLSdJ9fasA1aAw4G05bZbsgnqivNxT2fjI3AoNi0mhVx9-D8W9Q/viewform',
       '_blank'
     )
   }
