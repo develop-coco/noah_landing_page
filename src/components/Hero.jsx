@@ -6,7 +6,7 @@ function Hero() {
 
   const handleSurvey = () => {
     window.open(
-      'https://docs.google.com/forms/d/e/1FAIpQLSdJ9fasA1aAw4G05bZbsgnqivNxT2fjI3AoNi0mhVx9-D8W9Q/viewform',
+      'https://forms.gle/dGaycCpfJtddbvzX8',
       '_blank'
     )
   }
@@ -65,7 +65,7 @@ function Hero() {
 
         {/* 보조 문구 */}
         <p className="text-base text-gray-500">
-          세입자/원룸도 공사 없는 설치를 목표로 합니다.
+          얼리버드 혜택 (한달 무료 체험. 단, 후기 참여 조건) <br />체험 종료 후 기기는 반납됩니다!
         </p>
       </div>
     </section>
