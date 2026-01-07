@@ -25,7 +25,7 @@ function Hero() {
       <div className="relative z-10 w-full max-w-4xl mx-auto text-center">
         {/* 헤드라인 */}
         <h1 className="font-bold mb-6 leading-tight text-center flex flex-col items-center">
-          <span className="block text-5xl md:text-6xl lg:text-7xl lg:whitespace-nowrap text-center">
+          <span className="block text-5xl md:text-6xl lg:text-7xl text-center break-keep whitespace-normal">
             <span className="text-blue-600">'여성 1인 가구'</span>
             <span className="text-gray-900">를 위한</span>
             <span className="text-blue-600"> IoT 안심 패키지</span>
