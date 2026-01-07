@@ -33,7 +33,7 @@ function Hero() {
         </h1>
 
         {/* 서브카피 */}
-        <p className="text-[35px] md:text-xl text-gray-700 mb-8 max-w-2xl mx-auto leading-relaxed text-balance">
+        <p className="text-[30px] md:text-xl text-gray-700 mb-8 max-w-2xl mx-auto leading-relaxed text-balance">
           밤늦게 귀가할 때, 집을 비울 때도!
           <br />
           앱 하나로 확인·알림·대응까지 올인원으로 제공합니다.
