@@ -25,7 +25,6 @@ function Hero() {
       <div className="relative z-10 w-full max-w-4xl mx-auto text-center">
         {/* 헤드라인 */}
         <h1 className="font-bold mb-6 leading-tight text-center flex flex-col items-center">
-          <span className="block text-gray-900 text-4xl md:text-5xl lg:text-6xl lg:whitespace-nowrap text-center">초기비용 0원 / 30분 설치 / 월 2.9만 원</span>
           <span className="block text-5xl md:text-6xl lg:text-7xl lg:whitespace-nowrap text-center">
             <span className="text-blue-600">'여성 1인 가구'</span>
             <span className="text-gray-900">를 위한</span>
@@ -59,7 +58,7 @@ function Hero() {
             onClick={handleSurvey}
             className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-lg text-lg shadow-lg transition-all duration-200 transform hover:scale-105 w-full sm:w-auto"
           >
-            얼리버드 혜택받기
+            한달무료(비용0원)
           </button>
         </div>
 

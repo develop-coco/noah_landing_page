@@ -73,7 +73,7 @@ function PricingSection() {
             onClick={handleSurvey}
             className="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-lg text-lg shadow-lg transition-all duration-200 transform hover:scale-105"
           >
-            얼리버드 혜택받기
+            한달무료(비용0원)
           </button>
 
           {/* 보조 문구 */}
